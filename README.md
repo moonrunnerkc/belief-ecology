@@ -23,6 +23,9 @@ This repository is licensed under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  
 See [LICENSE](./LICENSE) for full terms.
 
-© 2025 Bradley R. Kinnard.  
+© 2025 Bradley Ryan Kinnard. All rights reserved.
 Blackbox Mind v3™ is a trademark of Bradley R. Kinnard.
+Belief Ecology™ and Blackbox Mind™ are original cognitive AI frameworks authored and developed by Bradley Ryan Kinnard.
+Redistribution, reproduction, or commercial adaptation without written permission is prohibited.
+
 
