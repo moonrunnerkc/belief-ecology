@@ -1,4 +1,5 @@
 # core/belief_ecology.py
+#Author: Bradley R Kinnard
 
 import json
 import os
