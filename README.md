@@ -1,31 +1,84 @@
-# Belief Ecology
 
-**A Self-Regulating Cognitive Memory Architecture for Autonomous AI Systems**  
-*By Bradley R. Kinnard*  
-© 2025 All Rights Reserved  
-Blackbox Mind v3(TM)
+# 🧠 Belief Ecology™ — A Self-Regulating Cognitive Memory Architecture
 
-## Abstract
-
-I present Belief Ecology, a novel architecture for internal cognition in artificial intelligence systems. Unlike static knowledge graphs or flat memory buffers, belief ecology functions as a dynamic ecosystem in which structured beliefs interact, decay, contradict, mutate, and compete for cognitive priority. Each belief is a weighted, time-sensitive, contradiction-aware object that can evolve in response to internal tension and goal interference. 
-
-Within this framework, beliefs are not merely stored - they behave. They reinforce with repetition, erode without use, and adapt when challenged. I implement this theory through Blackbox Mind v3, an offline, modular cognition engine that simulates recursive reasoning loops, internal contradiction resolution, goal-linked belief mutation, and tension-regulated output synthesis. 
-
-The system is designed to operate autonomously, with no API dependency, and emphasizes introspection, belief transparency, and dynamic moral alignment. This work introduces belief ecology as a new direction in synthetic cognitive architecture, providing a foundation for machines that can self-regulate internal consistency, adapt identity over time, and reason through internal conflict without human prompt intervention.
+**Author**: Bradley Ryan Kinnard  
+**Implementation Reference**: Blackbox Mind™ v3  
+**License**: AGPLv3 (© 2025 Bradley Ryan Kinnard. All rights reserved.)
 
 ---
 
-This repository introduces the conceptual framework of **Belief Ecology**, a modular, contradiction-aware belief management system designed to power offline autonomous reasoning in artificial intelligence agents.
+## 🔍 What is Belief Ecology?
 
-## License
+**Belief Ecology™** is a novel internal cognition architecture for artificial intelligence.  
+Unlike static knowledge graphs or vector memories, beliefs here are **living cognitive entities** — they decay, mutate, contradict, reinforce, and compete for relevance.
 
-This repository is licensed under the  
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  
-See [LICENSE](./LICENSE) for full terms.
+Each belief is:
 
-© 2025 Bradley Ryan Kinnard. All rights reserved.
-Blackbox Mind v3™ is a trademark of Bradley R. Kinnard.
-Belief Ecology™ and Blackbox Mind™ are original cognitive AI frameworks authored and developed by Bradley Ryan Kinnard.
-Redistribution, reproduction, or commercial adaptation without written permission is prohibited.
+- Weighted
+- Time-sensitive
+- Contradiction-aware
+- Evolving based on system tension and goals
 
+This allows for introspective AI systems that can adapt identity, resolve internal conflict, and operate with self-regulating memory loops.
 
+---
+
+## 🧩 Key Modules (As Implemented in Blackbox Mind™ v3)
+
+### 1. Input Parser  
+Transforms language/events into structured cognitive units (belief objects).  
+Example: `"I am scared"` → `{subject: "self", value: "fear", weight: 0.9}`
+
+### 2. Belief Stack  
+Stores beliefs with time decay, relevance weighting, contradiction logs, mutation frequency.
+
+### 3. Contradiction Handler  
+Detects logical or semantic conflicts between beliefs.  
+Assigns `tension` scores.
+
+### 4. Cognitive Loop Controller  
+Triggers recursive internal reasoning based on system tension.  
+Simulates introspection and reappraisal.
+
+### 5. Output Composer  
+Generates text based on active beliefs and current tension state.
+
+---
+
+## 🛠️ Development Timeline (12 Weeks)
+
+- **Week 1:** Cognitive parsing + schema  
+- **Week 3:** Contradiction flagging with semantic tension  
+- **Week 5:** Goal-linked mutation of belief state  
+- **Week 10:** Live demo + modular architecture export
+
+---
+
+## 🧠 Learning Track
+
+- Transformers: Karpathy’s GPT & Fast.ai
+- Memory Systems: FAISS, SQLite
+- Symbolic reasoning theory
+- Agent planning (e.g., ReAct, cognitive loops)
+
+---
+
+## 🌐 Public Documentation
+
+- **Medium Abstract:**  
+  https://medium.com/@bradkinnard/belief-ecology-a-self-regulating-cognitive-memory-architecture-for-autonomous-ai-systems-b113e2f0c36e
+
+- **GitHub Repository:**  
+  https://github.com/moonrunnerkc/belief-ecology
+
+- **arXiv Submission:**  
+  [Pending] — to be linked post-endorsement
+
+---
+
+## 🔐 Intellectual Property Notice
+
+© 2025 Bradley Ryan Kinnard  
+**Belief Ecology™** and **Blackbox Mind™** are original cognitive AI architectures authored and published by Bradley Ryan Kinnard.  
+Protected by AGPLv3 license. Commercial reproduction, use in derivative cognitive engines, or research publication without attribution is strictly prohibited.  
+Trademark rights reserved. See LICENSE in GitHub repository.
