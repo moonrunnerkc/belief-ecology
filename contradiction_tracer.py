@@ -1,4 +1,5 @@
 # core/contradiction_tracer.py
+#Author: Bradley R Kinnard
 
 import json
 import os
