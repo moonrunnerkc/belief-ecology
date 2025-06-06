@@ -1,4 +1,5 @@
 # core/belief.py
+#Author: Bradley R Kinnard
 
 import uuid
 import time
