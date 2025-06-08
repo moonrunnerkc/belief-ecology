@@ -3,7 +3,17 @@
 
 **Author**: Bradley Ryan Kinnard  
 **Implementation Reference**: Blackbox Mind™ v3  
-**License**: AGPLv3 (© 2025 Bradley Ryan Kinnard. All rights reserved.)
+## Licensing
+
+This project is not open source.
+
+All rights are reserved. Commercial use, modification, or redistribution without explicit permission is strictly prohibited.
+
+To purchase or license this technology, contact: bradkinnard@proton.me
+
+🔒 All Rights Reserved. Not open source. Do not copy, redistribute, or modify.
+
+
 
 ---
 
@@ -80,5 +90,6 @@ Generates text based on active beliefs and current tension state.
 
 © 2025 Bradley Ryan Kinnard  
 **Belief Ecology™** and **Blackbox Mind™** are original cognitive AI architectures authored and published by Bradley Ryan Kinnard.  
-Protected by AGPLv3 license. Commercial reproduction, use in derivative cognitive engines, or research publication without attribution is strictly prohibited.  
+🔒 All Rights Reserved. Not open source. Do not copy, redistribute, or modify.
+Commercial reproduction, use in derivative cognitive engines, or research publication without attribution is strictly prohibited.  
 Trademark rights reserved. See LICENSE in GitHub repository.
