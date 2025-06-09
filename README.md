@@ -1,8 +1,68 @@
+# 🧠 Belief Ecology — Autonomous Cognitive Memory Architecture
 
-# 🧠 Belief Ecology™ — A Self-Regulating Cognitive Memory Architecture
+> **Author**: Bradley Ryan Kinnard  
+> **Original Design & IP**: ©2025 Bradley R. Kinnard  
+> **Status**: Protected Intellectual Property | For Exclusive Sale or Licensing
 
-**Author**: Bradley Ryan Kinnard  
-**Implementation Reference**: Blackbox Mind™ v3  
+---
+
+## 🔍 Overview
+
+**Belief Ecology** is an original AI architecture designed to emulate cognitive self-regulation through belief modeling, contradiction tracing, memory decay, and dynamic mutation. It simulates core features of autonomous thought — memory lifecycle, internal contradiction management, and recursive goal-aligned adaptation.
+
+This repository contains a protected core of my **original Belief Ecology framework**, created and engineered solely by me. It is part of a larger suite of agentic cognition modules developed under my intellectual property portfolio.
+
+---
+
+## 🔐 Intellectual Property Notice
+
+All concepts, source code, designs, and terminology herein — including but not limited to:
+
+- **Belief Ecology** as an adaptive memory framework  
+- **Contradiction tracing as mutation triggers**  
+- **Recursive belief fusion and entropy-based lifecycle**  
+- The use of **semantic contradiction thresholds** for belief collapse and replacement  
+- Core modules such as `belief.py`, `belief_ecology.py`, and `contradiction_tracer.py`
+
+are the **exclusive intellectual property of Bradley Ryan Kinnard** and may not be used, copied, adapted, or repurposed in any capacity without express written permission.
+
+> This work is not open source. No license is granted for use or modification.
+
+---
+
+## ⚠️ Legal and Commercial Restrictions
+
+This repository:
+
+- ❌ Is **not** licensed for public use or redistribution  
+- ❌ May **not** be forked, cloned, or modified for personal, academic, or commercial use  
+- ✅ Is **available for exclusive sale or licensing** via direct negotiation only  
+- ✅ May be transferred as a closed-source intellectual asset with legal contract
+
+If you are interested in acquiring this technology or incorporating it into a product, please contact me at:
+
+**📧 bradkinnard@proton.me**
+
+---
+
+## 🧬 Technical Summary
+
+- Recursive Contradiction Tracing System (RCTS)
+- Belief mutation via semantic fusion and fitness decay
+- Persistent episodic memory and entropy decay
+- Fully offline-compatible and memory-efficient
+- Designed for agentic reasoning and evolving logic networks
+
+This is a novel architecture. No prior public implementation of this exact system exists. All underlying logic and modular designs are fully original.
+
+---
+
+## 🛡️ Protected Repository
+
+This codebase is under active IP protection. Any unauthorized use, duplication, or derivative work is a direct violation of ownership rights and will be pursued through legal channels if necessary.
+
+---
+
 ## Licensing
 
 This project is not open source.
